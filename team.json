@@ -4,5 +4,10 @@
       "id": "lucian-du-plessis",
       "name": "Demo Pr. Eng. (SAMPLE)"
     }
-  ]
+  ],
+  "leader": "lucian-du-plessis",
+  "pw": {
+    "salt": "salt-2yaasu7cxbhx",
+    "hash": "957049c97f312e97c850ea1827a4f0f8e32935e73d51fb77cb60758cf31253b0"
+  }
 }
