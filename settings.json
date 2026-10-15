@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T10:49:43.482Z",
-  "by": "jaco-lotter",
+  "updatedAt": "2026-10-15T10:59:10.254Z",
+  "by": "lucian-du-plessis",
   "taskStatuses": [
     {
       "id": "status-backlog",
@@ -96,6 +96,9 @@
     "SAT tracker",
     "Rooftop ballast",
     "Rooftop flush mount",
-    "Custom"
+    "Custom",
+    "H-Max Double Access",
+    "H-Max East-West",
+    "H-Max Standard"
   ]
 }
