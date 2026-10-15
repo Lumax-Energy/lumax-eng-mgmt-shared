@@ -1,0 +1,101 @@
+{
+  "updatedAt": "2026-10-15T10:49:43.482Z",
+  "by": "jaco-lotter",
+  "taskStatuses": [
+    {
+      "id": "status-backlog",
+      "name": "Backlog",
+      "color": "#6b7c93",
+      "category": "todo"
+    },
+    {
+      "id": "status-todo",
+      "name": "To do",
+      "color": "#5c6b7e",
+      "category": "todo"
+    },
+    {
+      "id": "status-doing",
+      "name": "Doing",
+      "color": "#2f80ed",
+      "category": "doing"
+    },
+    {
+      "id": "status-in-check",
+      "name": "In check",
+      "color": "#9b59b6",
+      "category": "doing"
+    },
+    {
+      "id": "status-blocked",
+      "name": "Blocked",
+      "color": "#c0392b",
+      "category": null
+    },
+    {
+      "id": "status-done",
+      "name": "Done",
+      "color": "#1a7f4b",
+      "category": "done"
+    }
+  ],
+  "taskTypes": [
+    {
+      "id": "rdn",
+      "name": "RDN"
+    },
+    {
+      "id": "design_check",
+      "name": "Design check"
+    },
+    {
+      "id": "drawing",
+      "name": "Drawing"
+    },
+    {
+      "id": "eng_task",
+      "name": "Eng task"
+    },
+    {
+      "id": "site_visit",
+      "name": "Site visit"
+    },
+    {
+      "id": "calculation",
+      "name": "Calculation"
+    },
+    {
+      "id": "review",
+      "name": "Review"
+    },
+    {
+      "id": "coordination",
+      "name": "Coordination"
+    },
+    {
+      "id": "other",
+      "name": "Other"
+    }
+  ],
+  "projectTypes": [
+    "Carport",
+    "Ground mount",
+    "SAT tracker",
+    "Rooftop ballast",
+    "Rooftop flush mount",
+    "Custom"
+  ],
+  "structureTypes": [
+    "Carport H-Max",
+    "Carport Alu-Max",
+    "Carport Econo-Max",
+    "Carport Ergo-Max",
+    "Carport Ergo+",
+    "GM Steel",
+    "GM Alu",
+    "SAT tracker",
+    "Rooftop ballast",
+    "Rooftop flush mount",
+    "Custom"
+  ]
+}
