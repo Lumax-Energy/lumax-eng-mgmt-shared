@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T10:59:10.254Z",
+  "updatedAt": "2026-10-23T12:56:38.932Z",
   "by": "lucian-du-plessis",
   "taskStatuses": [
     {
@@ -75,6 +75,10 @@
     {
       "id": "other",
       "name": "Other"
+    },
+    {
+      "id": "report",
+      "name": "Report"
     }
   ],
   "projectTypes": [
